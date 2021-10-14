@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/env", "@babel/preset-react"] // Говорим babel, что нужно использовать env и react пресеты
+}
